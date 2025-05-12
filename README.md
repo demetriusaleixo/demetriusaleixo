@@ -1,7 +1,7 @@
 ## Olá, Eu sou Demétrius Aleixo 👋
 
 - 🔭 Estudante de TI
-- 🌱 Estudando PHP e Bootstrap
+- 🌱 Estudando DELPHI
 
 <div>
   <a href="https://github.com/demetriusaleixo/demetriusaleixo">
